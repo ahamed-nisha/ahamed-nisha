@@ -10,11 +10,11 @@ I'm a software engineer who loves solving problems with code, fueled by my daily
 
 <div style="display: flex; gap: 20px;">
   <a href="https://www.linkedin.com/in/nisha-ahamed" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" style="width: 40px; height: 40px;">
+    <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn" style="width: 30px; height: 30px;">
   </a>
   <br>
   <a href="https://www.nisha-ahamed.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/24/4140/4140047.png" alt="Portfolio" style="width: 40px; height: 40px;">
+    <img src="https://cdn-icons-png.flaticon.com/24/4140/4140047.png" alt="Portfolio" style="width: 30px; height: 30px;">
   </a>
 </div>
 
