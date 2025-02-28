@@ -4,7 +4,9 @@
 
 ## About Me  🌱
 
-I'm a software engineer who loves solving problems with code, fueled by my daily dose of espresso. When I don't have my nose buried in a project, you’ll find it buried in a book (*The Good Earth* by Pearl S. Buck is my favorite!). Otherwise, I'm exploring the outdoors on a hike, capturing moments on my trusty Fuji camera, or just disconnecting and taking a quaint walk. I love bringing ideas and designs to life and am always looking for the next adventure—whether it's on a nature trail or on Visual Studio!  
+I am an espresso-fueled software engineer based in NYC. I thrive on solving problems with code and love bringing ideas and designs to life, with a special passion for minimalism and creating clean, intuitive user interfaces. I strongly believe in the beauty of simplicity and that thoughtful design is key to delivering great digital experiences.
+
+When I’m not buried in a project, you’ll find me lost in a book (with The Good Earth by Pearl S. Buck as my all-time favorite!), exploring the outdoors on a hike, or capturing moments with my trusty Fuji camera. Whether it’s on a nature trail or on Visual Studio, I’m always looking for the next adventure.
 
 ## Connect  🔗
 
