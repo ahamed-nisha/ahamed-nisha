@@ -8,11 +8,11 @@ I'm a software engineer who loves solving problems with code, fueled by my daily
 
 ## Connect with Me  🔗 
 
-<a href="https://www.linkedin.com/in/nisha-ahamed">
+<a href="https://www.linkedin.com/in/nisha-ahamed" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn">
 </a>
 <br>
-<a href="https://www.nisha-ahamed.com">
+<a href="https://www.nisha-ahamed.com" target="_blank">
   <img src="https://cdn-icons-png.flaticon.com/24/3476/3476457.png" alt="Portfolio">
 </a>
 
