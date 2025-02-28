@@ -11,7 +11,7 @@ I'm a software engineer who loves solving problems with code, fueled by my daily
 <a href="https://www.linkedin.com/in/nisha-ahamed">
   <img src="https://cdn-icons-png.flaticon.com/24/174/174857.png" alt="LinkedIn">
 </a>
-<br><br>
+<br>
 <a href="https://www.nisha-ahamed.com">
   <img src="https://cdn-icons-png.flaticon.com/24/3476/3476457.png" alt="Portfolio">
 </a>
