@@ -7,4 +7,4 @@ I'm a software engineer who loves solving problems with code, fueled by my daily
 ## Find me
 
 [![LinkedIn](https://cdn-icons-png.flaticon.com/24/174/174857.png)](https://www.linkedin.com/in/nisha-ahamed)  
-[![Website]([![alt text]](https://imgur.com/a/2Fga7dE)](https://www.nisha-ahamed.com)
+[![Website](https://cdn-icons-png.flaticon.com/24/4140/4140048.png)](https://www.nisha-ahamed.com)
