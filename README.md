@@ -4,7 +4,7 @@
 
 ## About Me  🌱
 
-I am an espresso-fueled software engineer based in NYC. I thrive on solving problems with code and love bringing ideas and designs to life, with a special passion for minimalism and creating clean, intuitive user interfaces. I strongly believe in the beauty of simplicity and that thoughtful design is key to delivering great digital experiences.
+I am an espresso-fueled software engineer based in NYC. I thrive on solving problems with code and love bringing ideas and designs to life, with a special passion for creating modern, intuitive digital experiences. I believe in thoughtful design that balances functionality and aesthetics. No matter the industry, a great user experience is always the priority.
 
 When I’m not buried in a project, you’ll find me lost in a book (The Good Earth by Pearl S. Buck is my all-time favorite!), exploring the outdoors on a hike, or capturing moments with my trusty Fuji camera. Whether it’s on a nature trail or on Visual Studio, I’m always looking for the next adventure.
 
